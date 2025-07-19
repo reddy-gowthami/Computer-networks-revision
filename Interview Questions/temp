@@ -1,1 +1,43 @@
+## 🔍 Social Issues in Computer Networks
+
+This section covers important ethical and security concerns that arise due to the misuse of networking technologies.
+
+---
+
+### 🧠 1. Profiling Users
+
+**Definition**:  
+The practice of collecting and analyzing user data such as browsing history, location, device usage, and preferences to build a digital profile of an individual.
+
+#### 🔧 Used for:
+- Targeted advertising
+- Personalization of content (e.g., recommendations on YouTube or Netflix)
+- Behavioral surveillance and user tracking
+
+#### ⚠️ Concerns:
+- **Privacy invasion** – Users may be monitored without their explicit consent.
+- **Data misuse & discrimination** – Data can be used to manipulate pricing or decisions (e.g., loan eligibility).
+- **Lack of transparency** – Users are often unaware of the extent of data collected or how it's used.
+
+---
+
+### 🎣 2. Phishing
+
+**Definition**:  
+A cyber attack where attackers impersonate a trusted entity (like a bank or online service) to trick users into revealing confidential data such as passwords, OTPs, or credit card numbers.
+
+#### 🧰 Types:
+- **Email Phishing**: Fake emails asking for personal or financial info.
+- **Spear Phishing**: Targeted at specific individuals (e.g., an employee).
+- **Smishing/Vishing**: Fraudulent messages via SMS or voice calls.
+
+#### 🛡️ How to Prevent:
+- Do **not click** on links from unknown or suspicious sources.
+- Always use **multi-factor authentication (MFA)**.
+- **Verify** sender identities and URLs before responding.
+- Use anti-phishing browser extensions or email filters.
+
+---
+
+> 🔐 Stay informed and cautious to protect your personal information and digital identity.
 
