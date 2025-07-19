@@ -58,7 +58,7 @@ This repository contains a concise and structured summary of key topics in **Com
 ---
 
 ## 📍 5. Routing
-
+- **Default Routing**
 - **Static Routing**: Manually configured
 - **Dynamic Routing Protocols**:
   - Distance Vector: RIP
