@@ -52,5 +52,25 @@ A cyber attack where attackers impersonate a trusted entity (like a bank or onli
 
 ---
 
-> 🔐 Stay informed and cautious to protect your personal information and digital identity.
+##what is osi model?
+
+##what is dialogue management?
+Dialogue Management – an example is, querying a database. Let the
+DB sit on a remote server and the query is invoked from the client –
+the entire process of sending the query and receiving the data is
+considered “dialogue management”.
+
+##difference between tcp and udp?
+##what is tcp/ip model?
+##Comparison Between TCP/IP and OSI Model?
+##Addresses in TCP/IP?-physical addresses,IP,Port?
+
+##difference between baseband and broadband?and fiber vs satellite and copper?
+
+##Wireless Transmissions?
+-Radio transmission
+-Microwave Transmission
+-Lightwave Transmission
+-Satellites
+
 
